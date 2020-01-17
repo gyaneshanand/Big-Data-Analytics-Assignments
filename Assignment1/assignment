@@ -1,0 +1,5 @@
+In this assignment, we will refresh our basic of DBMS and use PostgresSQL for an OSS project
+that retrieves and downloads data from GitHub, called  GHTorrent . GHTorrent works by following
+the Github event timeline and then retrieving all items linked from each event recursively and
+exhaustively. To make monitoring and debugging easier, the GHTorrent maintainers use
+extensive runtime logging for the downloader scripts.
